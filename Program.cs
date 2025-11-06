@@ -1,4 +1,4 @@
-﻿namespace Oefening_kijken_of_GITbash_werkt
+﻿namespace ConsoleApp2
 {
     internal class Program
     {
